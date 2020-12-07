@@ -8,5 +8,6 @@ open System
 [<EntryPoint>]
 let main argv =
     // Runner.runAOCDay 1 AOC1.run
-    Runner.runAOCDay 2 AOC2.run
+    // Runner.runAOCDay 2 AOC2.run
+    Runner.runAOCDay 3 AOC3.run
     0

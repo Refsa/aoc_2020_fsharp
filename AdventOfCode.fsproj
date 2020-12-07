@@ -10,9 +10,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Include="FParsecHelpers.fsx" />
     <Compile Include="Runner.fsx" />
     <Compile Include="AOC1.fsx" />
     <Compile Include="AOC2.fsx" />
+    <Compile Include="AOC3.fsx" />
     <Compile Include="Program.fsx" />
   </ItemGroup>
 
